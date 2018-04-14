@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Lukas Sinkus and I am software developer living in Aarhus, Denmark.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In this blog I will mostly write about my coding discoveries and tips.  
+
+Other online presence:
+- LinkedIn: [Lukas Sinkus][linkedin]
+- StackOverflow: [LLL][so]
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+[linkedin]: https://www.linkedin.com/in/lukas-sinkus/
+[so]: https://stackoverflow.com/users/3608449/lll?tab=profile
