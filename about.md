@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi!
 
-My name is Lukas Sinkus and I am software developer living in Aarhus, Denmark.
+My name is Lukas Sinkus and I am software developer living in Copenhagen, Denmark.
 
 In this blog I will mostly write about my coding discoveries and tips.  
 
